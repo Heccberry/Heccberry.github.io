@@ -5,7 +5,8 @@ h2 {
         }  
         
         body {
-                background-image: url(myBackground.jpg) no-repeat center center fixed;
+                background-image: url(myBackground.jpg);
+                    background-size: cover;
             background-color: rgb(97, 250, 255);
         }
 #nav-table { width: 800px;}
