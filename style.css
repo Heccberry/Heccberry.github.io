@@ -3,11 +3,9 @@
         }  
         
         body {
+                background-image: url(myBackground.jpg);
             background-color: rgb(97, 250, 255);
         }
 #nav-table { width: 800px;}
 #nav-td {width: 200px; text-align: center;}
 
-body {
-        background-image: url(myBackground.jpg);
-}
